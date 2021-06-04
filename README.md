@@ -17,7 +17,7 @@
 
 ## Table of contents
 
-- [Quick start](#quick-start)
+- [Quick start](#股票分析四個面向)
 - [Status](#status)
 - [What's included](#whats-included)
 - [Bugs and feature requests](#bugs-and-feature-requests)
@@ -27,17 +27,23 @@
 - [Copyright and license](#copyright-and-license)
 
 
-# 股票分析四個面向
+## 股票分析四個面向
 
-Some text
+將股票分析依據的資訊，分為四個面向。
 
 - 基本面
 - 技術面
 - 籌碼面
-- 消息面
+- 總經面
 
-## Status
+## 必懂名詞
 
+## 基本面分析
+* 基本假設:股票隱含真實價值，透過公司的營運數據來評價股票的真實價值。 
+
+## 技術面分析
+* 基本假設:歷史會重演，反應在價格與成交量的走勢，會有固定的模式在未來一再出現。
+ 
 Here goes all the budgets
 
 ## What's included
