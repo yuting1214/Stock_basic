@@ -27,13 +27,14 @@
 - [Copyright and license](#copyright-and-license)
 
 
-## Quick start
+# 股票分析四個面向
 
 Some text
 
-- Instruction 1
-- Instruction 2
-- Instruction 3
+- 基本面
+- 技術面
+- 籌碼面
+- 消息面
 
 ## Status
 
